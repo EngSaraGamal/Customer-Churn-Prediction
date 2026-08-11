@@ -150,7 +150,7 @@ customer-churn-prediction/
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+[git clone <repository-url>](https://github.com/EngSaraGamal/Customer-Churn-Prediction)
 ```
 
 ### 2. Install the required libraries
